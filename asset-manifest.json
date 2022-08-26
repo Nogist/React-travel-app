@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nogist/React-travel-app/static/css/main.d8b1c5d5.css",
+    "main.css": "/Nogist/React-travel-app/static/css/main.8d6aff22.css",
     "main.js": "/Nogist/React-travel-app/static/js/main.580108de.js",
     "static/media/maldivesVideo.mp4": "/Nogist/React-travel-app/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
     "static/media/keywest.jpg": "/Nogist/React-travel-app/static/media/keywest.1e30514942c6f50bea09.jpg",
@@ -11,11 +11,11 @@
     "static/media/maldives3.jpg": "/Nogist/React-travel-app/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
     "static/media/gold.png": "/Nogist/React-travel-app/static/media/gold.42f7d8f40c346adfe3a7.png",
     "index.html": "/Nogist/React-travel-app/index.html",
-    "main.d8b1c5d5.css.map": "/Nogist/React-travel-app/static/css/main.d8b1c5d5.css.map",
+    "main.8d6aff22.css.map": "/Nogist/React-travel-app/static/css/main.8d6aff22.css.map",
     "main.580108de.js.map": "/Nogist/React-travel-app/static/js/main.580108de.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8b1c5d5.css",
+    "static/css/main.8d6aff22.css",
     "static/js/main.580108de.js"
   ]
 }
