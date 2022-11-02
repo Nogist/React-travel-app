@@ -15,7 +15,7 @@ import KeyWest from '../../assets/keywest.jpg'
 
 const Select = () => {
   return (
-    <div name='views' className='selects'>
+    <div name='views' className='selects' id='select'>
       <div className='container'>
         <Img picture={BoraBora} text='Bora Bora' />
         <Img picture={BoraBora2} text='Emerald Bay' />
